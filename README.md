@@ -2,6 +2,7 @@
 Check the weather forecast upto 5 days.
 
 CONCEPTS/TOOLS IN USE
+
 MVVM, livedata, okhttp, retrofit, flipper, recycler view
 
 TO BE IMPLEMENTED
